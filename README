@@ -1,0 +1,2 @@
+createuser --encrypted --pwprompt ismsystem
+createdb --encoding=UTF8 --owner=ismsystem ismsystem
