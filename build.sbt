@@ -1,4 +1,4 @@
-name := """ISMSystem"""
+name := """i-love-potatoes"""
 
 version := "1.0.0"
 

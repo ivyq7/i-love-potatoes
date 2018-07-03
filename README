@@ -1,2 +1,2 @@
-createuser --encrypted --pwprompt ismsystem
-createdb --encoding=UTF8 --owner=ismsystem ismsystem
+createuser --encrypted --pwprompt bleep
+createdb --encoding=UTF8 --owner=bleep bleep
